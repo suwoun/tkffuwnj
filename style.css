@@ -1,0 +1,90 @@
+ <style type="text/css">
+            
+        <link href="https://fonts.googleapis.com/css2?family=Caveat+Brush&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Caveat+Brush&display=swap" rel="stylesheet">
+
+        p {font-family: Helvetica, serif}
+
+            
+        #wrap {width: 1280px; height: 2500px; margin: 0 auto;}
+        #header{
+        	text-align: center; width: 1280px; height: 200px; 
+        	font-family: Permanent Marker, Knewave, Careat Brush, Dokdo, serif;
+        	font-size: 30px;
+        	background-image: url('header.jpg'); background-size: cover;
+        	background-repeat: no-repeat; font-family: Caveat Brush, Chewy, Helvetica, s
+        }
+        #banner1{
+        	width: 1280px; height: 60px;
+        	text-align: center; 
+        	font-size: 25px; margin-top: 40px;
+        }
+        #nav1{
+             float: left; width: 280px; height: 180px;  font-size: 20px; line-height: 44px; text-align: 
+            center; position: relative; top: 130px; margin-left: 15px;
+		}
+        #nav2{
+        	 float: left;  position: relative; text-align: center; position: relative;  margin-left: 0px;
+        }
+        #nav3{
+        	float: right; width: 300px; height: 200px; font-size: 20px; line-height: 44px; text-align: center; position: relative; top: 100px; margin-right: 15px;
+        }
+        #a{
+        	margin-top: 500px; border-bottom: 1px solid gray;
+        }
+        #banner2{
+        	width: 1280px; height: 50px; text-align: center;
+        	font-size: 25px; margin-top: 40px;
+        } 
+        #main1{
+        	font-size: 20px; margin-top: 50px;}
+        	img{
+				width: 300px;
+				height: 400px;
+				float: left;
+				margin-right:40px;
+				margin-bottom:10px;
+				margin-top: 30px;
+			}
+			#text1 {
+				font-size: 25px; margin-top: 80px;
+			}
+		#b {
+			margin-top: 140px; border-bottom: 1px solid gray;
+		}
+			#main2{
+				font-size: 20px; margin-top: 160px;}
+        	img{
+				width: 300px;
+				height: 400px;
+				float: left;
+				margin-left: 20px;
+				margin-right:40px;
+				margin-bottom:10px;
+				margin-top: 0px;
+			}
+			     #text2{
+				    font-size: 25px; float: left; margin-top: 80px; margin-left: 370px;
+			       }
+			#c{
+				margin-top: 170px; border-bottom: 1px solid gray;
+			}
+			#main3{
+				font-size: 20px; margin-top: 180px;}
+        	img{
+				width: 300px;
+				height: 400px;
+				float: left;
+				margin-right:40px;
+				margin-bottom:10px;
+				margin-top: 20px;
+			}
+			   #text3{
+			   	font-size: 25px; float: left; margin-top: 80px;
+			   }
+			#d{
+				margin-top: 140px; border-bottom: 1px solid gray;
+			}  	
+        #footer{
+        	clear: both;
+        	font-size: 23px;
